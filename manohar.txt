@@ -1,0 +1,328 @@
+A Government of India Undertaking
+
+## Statement for A/c XXXXXXXXXX1528 for the period 12-May-2022 to 11-Aug-2022
+
+Customer Id
+
+XXXXXXX73
+
+Name
+
+MANOHAR M
+
+Phone
+
++919901234529
+
+Address
+
+S  O  MANI  E  K  T  523  12TH
+
+CROSS 2ND BOREWELL KEB COLONY MANDYA KARNATAKA
+
+Branch Code
+
+11600
+
+Branch Name
+
+MANDYA SUGAR TOWN
+
+IFSC Code
+
+CNRB0011600
+
+Address
+
+1 1 2 3
+
+F I R S T
+
+CROSS
+
+ASHOKNAGAR Mandya KARNATAKA
+
+| Date       | Particulars                                                                                                          | Deposits        | Withdrawals   | Balance   |
+|------------|----------------------------------------------------------------------------------------------------------------------|-----------------|---------------|-----------|
+|            |                                                                                                                      | Opening Balance |               | 3,191.57  |
+| 11-05-2022 | UPI/DR/213191206137/ZOMATO LTD/PYTM/**ORDER@PAYTM/Z OMATO P//PYTM2022051132052501553 8/11/05/2022 13:40:30           |                 | 296.35        | 2,895.22  |
+| 11-05-2022 | UPI/DR/213167709298/MS JAYASH/YESB/**93229@YBL/P AYMENT //YBLEB08DD0A44B146D897A6 FA39E283DD0C/11/05/2022 15:58:29   |                 | 200.00        | 2,695.22  |
+| 13-05-2022 | BBP/DR/213309928385/BAJAJ FIN/HDFC/**.PAYU@HDFCBAN K/UPI TRAN//BBPS8157234140478674 /13/05/2022 09:04:05             |                 | 714.00        | 1,981.22  |
+| 15-05-2022 | UPI/DR/213558474461/IXIGO/U TIB/**ORPAY@AXISBANK/ORD ER ID//IBLD600B9E9E9264C1DAF3 5A2D0C8567F11/15/05/2022 09:10:22 |                 | 262.96        | 1,718.26  |
+| 17-05-2022 | BY SALARY APRIL-22                                                                                                   | 21,800.00       |               | 23,518.26 |
+| 17-05-2022 | UPI/DR/213737900416/FINNOV ATI/ICIC/**.PAYU@ICICI/UPI TRAN//KB220422OVCSPSPKRQ                                       |                 | 4,989.00      | 18,529.26 |
+
+8/17/05/2022 15:02:00
+
+| Date       | Particulars                                                                                                              | Deposits   | Withdrawals   | Balance   |
+|------------|--------------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------|
+| 17-05-2022 | UPI/DR/213715092686/BHANIX FI/KKBK/**CASHE@KOTAK/UPI COLL//KMBMCASH1705220936 36000000001230751/17/05/2022 15:07:07      |            | 3,583.00      | 14,946.26 |
+| 17-05-2022 | UPI/DR/213703694004/CAPITAL T/ICIC/**ED.CF@ICICI/58892480 5//IBL8118015443D1485BA9340 A6F6E8C57F3/17/05/2022 15:13:29    |            | 3,597.00      | 11,349.26 |
+| 17-05-2022 | UPI/DR/213786634637/RAZORP AY/ICIC/**ORPAY@ICICI/NIRAF INA//IBL7A257533EC4B43FB993 094FA07C50AFA/17/05/2022 15:30:33     |            | 2,588.00      | 8,761.26  |
+| 18-05-2022 | ATM CASH-0426WS05- CANARABANKRAMANAGARAK AIN-18/05/22 16:12:55/9133                                                      |            | 5,000.00      | 3,761.26  |
+| 18-05-2022 | UPI/DR/213835002353/JOYLYN SY/ICIC/**85731@IBL/PAYMEN T //IBLCACC88F9A67F48AFBF912                                       |            | 1,700.00      | 2,061.26  |
+| 20-05-2022 | UPI/DR/214021742277/SHIVA PRA/PYTM/**SDTUZ@PAYTM/N O REMARKS//UPIC88F721342D64 49E89716B682C3573A5/20/05/2 022 21:28:10  |            | 30.00         | 2,031.26  |
+| 21-05-2022 | UPI/DR/214189311105/GOOGLE PAY/UTIB/**LEPAY@AXISBANK /SOLD BY //AXIE9F47F13DB4F45A999479 DF1ED95014F/21/05/2022 23:26:13 |            | 11.80         | 2,019.46  |
+| 23-05-2022 | UPI/DR/214327500133/MS JAYASH/YESB/**93229@YBL/P AYMENT //YBLE8D20DC0958F45658247A 5631B02E09C/23/05/2022 10:27:23       |            | 198.50        | 1,820.96  |
+| 24-05-2022 | INET-IMPS-CR/ARNOLD HOL/YBL /016281300002327/PURPLEDIS B/9999999999/24/05/2022 02:09:06                                  | 7,620.48   |               | 9,441.44  |
+| 24-05-2022 | ATM CASH-05162448- CANARABANKMANDYAKAIN-                                                                                 |            | 4,000.00      | 5,441.44  |
+
+24/05/22 10:33:57/9133
+
+| Date       | Particulars                                                                                                              | Deposits   | Withdrawals   | Balance   |
+|------------|--------------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------|
+| 24-05-2022 | ATM TXN DONE IN OTHER BANK ATM / IMPS CHARGES                                                                            |            | 23.60         | 5,417.84  |
+| 24-05-2022 | UPI/DR/214486552919/MURALI DHA/CNRB/**91661@YBL/PAY MENT //YBLB9937543BED64E6795263 6EFD02FC1C0/24/05/2022 10:53:32      |            | 30.00         | 5,387.84  |
+| 24-05-2022 | UPI/DR/214421722763/BALA KRIS/ICIC/**86260@YBL/PAYM ENT //YBLC3F8111B0CFB42E298966 15B1403AD94/24/05/2022 13:11:12       |            | 50.00         | 5,337.84  |
+| 24-05-2022 | UPI/DR/214487093010/SRI ANNAP/UTIB/**58318@OKBIZA XIS/PAYMENT //IBL02EB63ACFAE8494EAF066 31A1C866181/24/05/2022          |            | 20.00         | 5,317.84  |
+| 25-05-2022 | UPI/DR/214584751953/FLIPKAR T /YESB/**FKRT@YBL/PAYMENT //YBLD850AB4B15294494B13F8 7609D977655/25/05/2022 08:26:43        |            | 239.00        | 5,078.84  |
+| 25-05-2022 | UPI/DR/214544958188/K C VEENA/IOBA/**86245@YBL/PA YMENT //YBL6357A27C462F498082628 8DCF11499A9/25/05/2022 09:51:08       |            | 30.00         | 5,048.84  |
+| 25-05-2022 | UPI/DR/214548277809/KUPRA ENT/UTIB/**98337@OKBIZAXIS/ PAYMENT //IBL559A96742734402F8E5147 2C4F93503D/25/05/2022 17:02:37 |            | 200.00        | 4,848.84  |
+| 25-05-2022 | UPI/DR/214531487782/DREAM HOME/PYTM/**BPOIM@PAYTM /PAYMENT //IBL02058239217F44139BCCE7 B38D607AB2/25/05/2022 17:11:18    |            | 60.00         | 4,788.84  |
+| 25-05-2022 | UPI/DR/214520215576/BHANIX FI/KKBK/**CASHE@KOTAK/UPI COLL//KMBMCASH2505221436 10000000001230751/25/05/2022               |            | 3,583.00      | 1,205.84  |
+
+20:06:37
+
+| Date       | Particulars                                                                                                            | Deposits   | Withdrawals   | Balance   |
+|------------|------------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------|
+| 26-05-2022 | UPI/DR/214686355923/JAYALA KSH/YESB/**12868@YBL/PAYM ENT //YBL356612E4251247EBB9CE5 F3C3C2DA919/26/05/2022 10:35:05    |            | 20.00         | 1,185.84  |
+| 26-05-2022 | UPI/DR/214610954256/MURALI DHA/CNRB/**14611@YBL/PAY MENT //YBL56B0DF2BB5A543C9BCE7 C978ACD3AF18/26/05/2022 10:50:29    |            | 30.00         | 1,155.84  |
+| 26-05-2022 | UPI/DR/214628459274/JWALAM ALA/IBKL/**63243@YBL/PAYME NT //YBL5C2470D0219D4635B68F1 F3B0DC8FA62/26/05/2022 16:57:29    |            | 220.00        | 935.84    |
+| 27-05-2022 | UPI/DR/214727509528/AIVI MOBI/SCBL/**I2369@SC/PAYM ENT //IBL8120887B03E244D2A45DC 5548ABA666E/27/05/2022               |            | 399.00        | 536.84    |
+| 27-05-2022 | UPI/DR/214727173798/NAJUND ASW/PYTM/**VGPBP@PAYTM/ PAYMENT //YBLA875517621CE44DABA21 A191B0B36C6D/27/05/2022 10:34:12  |            | 25.00         | 511.84    |
+| 27-05-2022 | ATM INSUFFICIENT FUND CHARGES                                                                                          |            | 23.60         | 488.24    |
+| 27-05-2022 | ATM INSUFFICIENT FUND CHARGES                                                                                          |            | 23.60         | 464.64    |
+| 27-05-2022 | UPI/CR/214720622686/MANOH AR M/SBIN/**ANUA1@UPI/NO REMARKS//UPI574AF829390E4 F2D9E71B736A323F6EA/27/05/ 2022 20:32:09  | 500.00     |               | 964.64    |
+| 27-05-2022 | UPI/DR/214749070975/SANTHO SH S/PYTM/**VG3S8@PAYTM/PAY MENT //YBL29F50E47733D4E3F8C977 B74489EEE5E/27/05/2022 21:11:19 |            | 25.00         | 939.64    |
+| 27-05-2022 | ATM CASH-05162448- CANARABANKMANDYAKAIN- 27/05/22 21:17:04/9133                                                        |            | 400.00        | 539.64    |
+| 27-05-2022 | ATM TXN DONE IN OTHER BANK ATM / IMPS CHARGES                                                                          |            | 23.60         | 516.04    |
+|            |                                                                                                                        |            |               | page 4    |
+
+| Date       | Particulars                                                                                                           | Deposits   |   Withdrawals |   Balance |
+|------------|-----------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------|
+| 27-05-2022 | UPI/DR/214744163431/PREM RAJ /IPOS/**60695@IBL/PAYMENT //IBL04A886DE5D7F4B92A25DF B1A3C5A115A/27/05/2022 22:31:48     |            |            50 |    466.04 |
+| 27-05-2022 | UPI/DR/214764695742/PREM RAJ /IPOS/**60695@YBL/PAYMENT //YBL482CEFBA8E244D318B8B D4C5C70EEB9E/27/05/2022 22:37:18     |            |           100 |    366.04 |
+| 28-05-2022 | UPI/DR/214884982783/SRI ANNAP/PYTM/**93F11@PAYTM /PAYMENT //YBL3492B2DEE7454C22B1745 5259C8A550B/28/05/2022           |            |            20 |    346.04 |
+| 28-05-2022 | UPI/DR/214831962097/SAHANA K N/PYTM/**3F2GV@PAYTM/PAY MENT //IBLB6657064CCCD491583C7A 122FFBBFC99/28/05/2022          |            |            70 |    276.04 |
+| 28-05-2022 | UPI/DR/214885222815/SAPANA ME/PYTM/**9FHM9@PAYTM/PA YMENT //YBL5341609278F34009A4D12 E620EDEAA3A/28/05/2022 22:37:46  |            |            70 |    206.04 |
+| 28-05-2022 | UPI/DR/214831103104/SAPANA ME/PYTM/**9FHM9@PAYTM/PA YMENT //IBLBB137B6360E34A01B0A47 428136C53EC/28/05/2022           |            |            70 |    136.04 |
+| 29-05-2022 | UPI/DR/214978043497/BOREG OWDA/PYTM/**FAA83@PAYTM /PAYMENT //YBL995C35F49F004226B909C ABAB4DB21E9/29/05/2022 21:25:11 |            |            40 |     96.04 |
+| 29-05-2022 | UPI/DR/214940679843/SUMANT H M/FDRL/**89663@FBPE/PAY TO B//IBL42E5053E66F74936ADDB 4C578D35DDB9/29/05/2022 21:55:04   |            |            60 |     36.04 |
+
+| Date       | Particulars                                                                                                               | Deposits   | Withdrawals   | Balance   |
+|------------|---------------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------|
+| 30-05-2022 | UPI/CR/215008193581/MANOH AR M/SBIN/**ANUA1@UPI/NO REMARKS//UPIA0D2BBB5B266 4A5B8639165343078B52/30/05/ 2022 08:55:21     | 500.00     |               | 536.04    |
+| 30-05-2022 | UPI/DR/215013615691/MS JAYASH/YESB/**93229@YBL/P AYMENT //YBL37E92CA3989E46009419B EAA150FEC99/30/05/2022 10:40:42        |            | 200.00        | 336.04    |
+| 30-05-2022 | UPI/CR/215011299903/M MANOHAR/IOBA/**ANUA1@UPI /NO REMARKS//UPI3E369CA5F9F54 7E2BF1C5936B6159C86/30/05/2 022 11:30:46     | 200.00     |               | 536.04    |
+| 30-05-2022 | ATM CASH-0426E016- CANARABANKMANDYAKAIN- 30/05/22 21:12:43/9133                                                           |            | 500.00        | 36.04     |
+| 30-05-2022 | ATM TXN DONE IN OTHER BANK ATM / IMPS CHARGES                                                                             |            | 23.60         | 12.44     |
+| 31-05-2022 | UPI/CR/215104869135/M MANOHAR/IOBA/**ANUA1@UPI /NO REMARKS//UPI63D4E04D28B74                                              | 400.00     |               | 412.44    |
+| 01-06-2022 | UPI/DR/215269454177/CHAMU NDES/UTIB/**67337@OKBIZAXI S/PAYMENT //YBL05CFECFB909E4191923C DBD9FDC50DAD/01/06/2022 13:09:08 |            | 30.00         | 382.44    |
+| 01-06-2022 | CASH-BNA-0516 0516BK01- 01/06/22 21:14:08                                                                                 | 3,200.00   |               | 3,582.44  |
+| 01-06-2022 | UPI/CR/215221693440/MANOH AR M/SBIN/**ANUA1@UPI/NO REMARKS//UPI5BE4C1A65B27 445B969072DF5662CB55/01/06/ 2022 21:19:53     | 100.00     |               | 3,682.44  |
+| 01-06-2022 | UPI/DR/215221007825/BHANIX FI/KKBK/**CASHE@KOTAK/UPI COLL//KMBMCASH0106221550 23000000001230751/01/06/2022 21:20:36       |            | 3,583.00      | 99.44     |
+| 02-06-2022 | INET-IMPS-CR/BHANIX FIN/KMB /9711744340/IMPS- CMS-F/9999999999/02/06/2022 11:36:06                                        | 14,410.00  |               | 14,509.44 |
+
+| Date       | Particulars                                                                                                           | Deposits   | Withdrawals   | Balance   |
+|------------|-----------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------|
+| 02-06-2022 | HOSTINGERDELHIDLIN- 02/06/22 19:36:27/9133                                                                            |            | 240.00        | 14,269.44 |
+| 02-06-2022 | CASH-BNA-0516 0516BK01- 02/06/22 21:43:38                                                                             | 8,000.00   |               | 22,269.44 |
+| 03-06-2022 | UPI/DR/215465471255/PRAVRE ENA/PYTM/**0LC0S@PAYTM/P AYMENT //IBLAAE08210A7AB47FB80927 919C8E362CE/03/06/2022 15:11:45 |            | 105.00        | 22,164.44 |
+| 03-06-2022 | ATM CASH-05162448- CANARABANKMANDYAKAIN- 03/06/22 20:52:23/9133                                                       |            | 500.00        | 21,664.44 |
+| 03-06-2022 | UPI/DR/215422758063/FINNOV ATI/ICIC/**.PAYU@ICICI/UPI TRAN//KB220422OVCSPR2U8E T/03/06/2022 22:18:55                  |            | 4,989.00      | 16,675.44 |
+| 03-06-2022 | UPI/DR/215479053466/RUFILO/ YESB/**ILOAH@YESBANK/RPM T6514//YBLAAC20A4787D84B0 B855B508616EBDB03/03/06/202 2 22:20:54 |            | 4,296.12      | 12,379.32 |
+| 04-06-2022 | UPI/DR/215502244618/MRS GOWR/YESB/**11964@YBL/PA YMENT //YBL1DF10AB9A5DA42748D90 DF63C0D54D51/04/06/2022 21:27:30     |            | 40.00         | 12,339.32 |
+| 05-06-2022 | UPI/DR/215692935207/AIRTEL PA/ICIC/**.PAYU@ICICI/UPITRA NS//6939092945723924480/05/0 6/2022 11:28:22                  |            | 179.00        | 12,160.32 |
+| 05-06-2022 | ECS QPAYINDIAPVTLTD                                                                                                   |            | 3,355.00      | 8,805.32  |
+| 06-06-2022 | UPI/DR/215766688980/MS JAYASH/YESB/**93229@YBL/P AYMENT //YBL3EC326AA31D449B5A8F6 AA1A61A3E5B1/06/06/2022             |            | 200.00        | 8,605.32  |
+| 07-06-2022 | UPI/DR/215877265738/SACHIN A K/PYTM/**W2VZT@PAYTM/PAY MENT //YBL70E2DD03C8614870966AF 1D6F808E00F/07/06/2022          |            | 70.00         | 8,535.32  |
+
+10:49:49
+
+| Date       | Particulars                                                                                                             | Deposits   | Withdrawals   | Balance   |
+|------------|-------------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------|
+| 07-06-2022 | UPI/DR/215812944004/PADMAV ATH/CNRB/**10101031281/NO REMARKS//UPI1969793DF9914 56B9E7539D9CC1CD46D/07/06/ 2022 12:40:24 |            | 8,500.00      | 35.32     |
+| 08-06-2022 | UPI/DR/215913618035/MANOH AR M/SBIN/**ANUA1@UPI/NO REMARKS//UPIEE5793B706804 481A438CCD461460C58/08/06/2 022 13:54:42   |            | 30.00         | 5.32      |
+| 10-06-2022 | HONORARIUM MAY-2022                                                                                                     | 20,381.00  |               | 20,386.32 |
+| 10-06-2022 | UPI/DR/216118836284/BHANIX FI/KKBK/**CASHE@KOTAK/UPI COLL//KMBMCASH1006221248 07000000001303433/10/06/2022 18:20:38     |            | 5,375.00      | 15,011.32 |
+| 10-06-2022 | UPI/DR/216129997862/CAPITAL T/ICIC/**ED.CF@ICICI/62926977 2//IBL24544D634B86479C963AB 3527497A07C/10/06/2022 18:21:45   |            | 2,398.00      | 12,613.32 |
+| 10-06-2022 | UPI/DR/216170337599/RAZORP AY /SBIN/**R.PAY@SBI/NIRAFINA// IBL373BB07B32F24A11AAB263 9D93C16106/10/06/2022 18:24:04     |            | 2,399.00      | 10,214.32 |
+| 10-06-2022 | UPI/DR/216188801045/OYO ROOMS/ICIC/**S.RZP@ICICI/O YO ROOMS //ICI73465307864F4D13B7D1E0 4F06C658B4/10/06/2022 19:21:47  |            | 351.00        | 9,863.32  |
+| 10-06-2022 | UPI/DR/216150618477/IXIGO/U TIB/**O.RZP@AXISBANK/ORDE R ID//YBLB593232242D141CFB92 231D2FD4B285D/10/06/2022 20:38:58    |            | 437.93        | 9,425.39  |
+| 10-06-2022 | UPI/DR/216121225097/KARNAT AKA/HDFC/**KSRTC@HDFCBA NK/KSRTC//HDF04A68DAF286B 47DFB94A523B7DB10C61/10/06 /2022 20:44:26  |            | 1,132.00      | 8,293.39  |
+| 10-06-2022 | ATM CASH-0426E016- CANARABANKMANDYAKAIN- 10/06/22 22:28:09/9133                                                         |            | 3,000.00      | 5,293.39  |
+| 11-06-2022 | ATM CASH-0426W008- CANARABANKMANDYAKAIN- 11/06/22 18:25:30/9133                                                         |            | 3,000.00      | 2,293.39  |
+
+page 8
+
+| Date       | Particulars                                                                                                                  | Deposits   | Withdrawals   | Balance   |
+|------------|------------------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------|
+| 11-06-2022 | UPI/DR/216221435933/RANI/PY TM/**63561@UPI/PAYMENT //IBLD13B08DE5A394967B23F0 BF7F82FD31F/11/06/2022 23:57:24                |            | 400.00        | 1,893.39  |
+| 12-06-2022 | BBP/DR/216314419590/BAJAJ FIN/HDFC/**.PAYU@HDFCBAN K/UPI TRAN//BBPS3831988880507001 /12/06/2022 14:13:22                     |            | 525.00        | 1,368.39  |
+| 13-06-2022 | UPI/DR/216406586402/AMRATP AL/PYTM/**20172@IBL/PAYME NT //IBL751EFE0289C848099451C3 B0DD08D4A5/13/06/2022 00:39:54           |            | 100.00        | 1,268.39  |
+| 13-06-2022 | INET-IMPS-CR/CASHFREE P/YBL /002261100000063/TRANSFER/ 9999999999/13/06/2022 09:48:30                                        | 9,580.00   |               | 10,848.39 |
+| 13-06-2022 | ATM CASH-0426E016- CANARABANKMANDYAKAIN- 13/06/22 22:01:42/9133                                                              |            | 500.00        | 10,348.39 |
+| 15-06-2022 | UPI/DR/216610385325/NAJUND ASW/PYTM/**VGPBP@PAYTM/ PAYMENT //YBLC4FE245F8A31408E8D656 025CCAD4CD4/15/06/2022                 |            | 65.00         | 10,283.39 |
+| 15-06-2022 | UPI/DR/216640000592/MS JAYASH/YESB/**93229@YBL/P AYMENT //YBLB7E14127E4A348B2AD627 2E0A7D3486A/15/06/2022 10:24:02           |            | 200.00        | 10,083.39 |
+| 17-06-2022 | UPI/DR/216802959474/LE TRAVEN/HDFC/**.PAYU@HDFC BANK/ORDER ID//IBLE7A5014E1FA547F3BE0 A94EA64E8E33E/17/06/2022               |            | 536.68        | 9,546.71  |
+| 18-06-2022 | UPI/DR/216913657359/MOHAN KUMA/UTIB/**37598@OKBIZAXI S/NO REMARKS//UPI33BA56BFE8954 AAEA79EEE831B13E9E9/18/06/ 2022 13:58:25 |            | 35.00         | 9,511.71  |
+| 18-06-2022 | ATM CASH-05162448- CANARABANKMANDYAKAIN- 18/06/22 15:38:34/9133                                                              |            | 1,000.00      | 8,511.71  |
+
+| Date       | Particulars                                                                                                                 | Deposits   | Withdrawals   | Balance   |
+|------------|-----------------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------|
+| 18-06-2022 | ATM CASH-05162448- CANARABANKMANDYAKAIN- 18/06/22 15:38:37/9133                                                             |            | 1,000.00      | 9,511.71  |
+| 18-06-2022 | ATM CASH-0516BK01- CANARABANKMANDYAKAIN- 18/06/22 15:39:21/9133                                                             |            | 1,000.00      | 8,511.71  |
+| 19-06-2022 | UPI/DR/217041636995/CHAINS UKH/FDRL/**00210@YBL/PAYM ENT //YBL6EA9DFD9BDCE4AA29B0 3D4C03C02E398/19/06/2022 13:50:12         |            | 50.00         | 8,461.71  |
+| 19-06-2022 | SMS ALERT CHARGES NEW                                                                                                       |            | 18.00         | 8,443.71  |
+| 20-06-2022 | UPI/CR/217135040544/LE TRAVEN/HDFC/**.PAYU@HDFC BANK/REFUND//HDFF6CE0F35 A2944513BF03CC26FE16796B/ 20/06/2022 02:55:07      | 395.00     |               | 8,838.71  |
+| 22-06-2022 | UPI/DR/217345106101/MAHALA KSH/UTIB/**33063@OKBIZAXIS /PAYMENT //IBL38E165ACE90949CFA22D7 A49E3EBA1E9/22/06/2022 10:59:10   |            | 68.00         | 8,770.71  |
+| 22-06-2022 | UPI/DR/217354537491/MS JAYASH/YESB/**93229@YBL/P AYMENT //YBL303101FCA5494DA385BB3 C008B4AC840/22/06/2022 11:21:23          |            | 200.00        | 8,570.71  |
+| 22-06-2022 | UPI/CR/217339322503/KARNAT AKA/HDFC/**KSRTC@HDFCBA NK/ONLINE R//HDFA89B18F6123F42648D63 3330F2B4CA13/22/06/2022 14:13:18    | 1,023.00   |               | 9,593.71  |
+| 23-06-2022 | UPI/DR/217421643805/MASS MOBI/UTIB/**47014@OKBIZAXI S/NO REMARKS//UPIE7C873FD1A09 4C949110FF2C55313125/23/06/ 2022 21:49:14 |            | 50.00         | 9,543.71  |
+| 24-06-2022 | UPI/DR/217514965196/SHIVAK UMA/PYTM/**LLV9J@PAYTM/N O REMARKS//UPI4438E7850D4A4 D89B866C2E1E579E38F/24/06/                  |            | 170.00        | 9,373.71  |
+
+| Date       | Particulars                                                                                                               | Deposits   | Withdrawals   | Balance   |
+|------------|---------------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------|
+| 24-06-2022 | UPI/CR/217530007636/RAZORP AY/YESB/**YOUTS@YESBANK/ IXIGO RE//YESBE22EDE334AB03D2C E05400144FF80A1/24/06/2022 16:56:19    | 200.00     |               | 9,573.71  |
+| 24-06-2022 | UPI/DR/217521277583/BOREG OWDA/PYTM/**B6CA7@PAYTM /NO REMARKS//UPIA10DEFBEF718 477881EA19E9460109E6/24/06/ 2022 21:30:06  |            | 50.00         | 9,523.71  |
+| 24-06-2022 | UPI/DR/217591407935/SUMANT H M/FDRL/**89663@FBPE/PAY TO B//YBL7EF9828A0944483EB354 DF43A2C64762/24/06/2022 21:54:45       |            | 115.00        | 9,408.71  |
+| 25-06-2022 | UPI/DR/217669795530/JIO MOBIL/YESB/**JIO@YESBANK/ JIO20BR0//YBL84F8B2352AF44 BFBA179C0E62B7FC1AD/25/06/                   |            | 149.00        | 9,259.71  |
+| 25-06-2022 | UPI/DR/217692216535/MAHALA KSH/UTIB/**33063@OKBIZAXIS /PAYMENT //YBL755FE21CDF694F74AA91 ABA3C890FDCD/25/06/2022 16:40:31 |            | 8.00          | 9,251.71  |
+| 25-06-2022 | UPI/DR/217652931808/MAHALA KSH/UTIB/**33063@OKBIZAXIS /PAYMENT //IBL86BAD4BB10C74D308E370 2DA77CAA6CD/25/06/2022 17:43:46 |            | 25.00         | 9,226.71  |
+| 25-06-2022 | ATM CASH-KBL15118- KBLMANDYAASHOKNAGARMA NDYAKAIN-25/06/22 17:54:52/9133                                                  |            | 1,500.00      | 7,726.71  |
+| 25-06-2022 | UPI/DR/217623975630/SRI KAMDH/PYTM/**HMFJ5@PAYT M/NO REMARKS//UPIE04CA25DE629 4C008317B8312358A6E0/25/06/ 2022 23:28:51   |            | 200.00        | 7,526.71  |
+| 26-06-2022 | ATM CASH-07249019- DABOLKARCORNERIIKARVIRM HIN-26/06/22 11:34:13/9133                                                     |            | 2,000.00      | 5,526.71  |
+
+| Date       | Particulars                                                                                                                | Deposits   | Withdrawals   | Balance   |
+|------------|----------------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------|
+| 26-06-2022 | UPI/DR/217730400793/SURESH KUM/YESB/**92705@YESBANK LTD/PAY TO B//YBL78CA89F53F8D486AA04 1E99A1FE9815E/26/06/2022 19:40:56 |            | 562.00        | 4,964.71  |
+| 27-06-2022 | UPI/DR/217846971329/IXIGO/H DFC/**O.RZP@HDFCBANK/AB HIBUS //HDF53F670AA570141359BC72 D3C85579057/27/06/2022 00:11:31       |            | 1,332.18      | 3,632.53  |
+| 28-06-2022 | UPI/CR/217909137345/SATHEE SH /SBIN/**MKD4D@OKSBI/BROS// SBI580A5FCEED24428C964499 2A77BE3741/28/06/2022 09:02:39          | 1,500.00   |               | 5,132.53  |
+| 28-06-2022 | UPI/DR/217937381527/FINNOV ATI/ICIC/**.PAYU@ICICI/UPI TRAN//ICI1FAE45C085384138A 683C4D05591B0E9/28/06/2022 09:05:56       |            | 4,989.00      | 143.53    |
+| 28-06-2022 | UPI/CR/217940423991/RAVI/CN RB/**402- 1@OKHDFCBANK/UPI//HDFF2D B717DDDB3416F930D4D9BC3B                                    | 10,000.00  |               | 10,143.53 |
+| 28-06-2022 | UPI/DR/217917684661/SATHEE SH /SBIN/**77975@UPI/NO REMARKS//UPI3E1027287F004 464B0F04F1D4E169EFA/28/06/2 022 17:42:25      |            | 1,500.00      | 8,643.53  |
+| 28-06-2022 | ATM CASH-0426WS05- CANARABANKRAMANAGARAK AIN-28/06/22 20:44:13/9133                                                        |            | 2,500.00      | 6,143.53  |
+| 28-06-2022 | ATM TXN DONE IN OTHER BANK ATM / IMPS CHARGES                                                                              |            | 23.60         | 6,119.93  |
+| 29-06-2022 | ATM CASH-MPZ09938- TRIPATHIBUSSTANDTRIPATHI APIN-29/06/22 12:39:27/9133                                                    |            | 1,000.00      | 5,119.93  |
+| 01-07-2022 | ATM CASH-0426W007- CANARABANKMANDYAKAIN- 01/07/22 10:04:08/9133                                                            |            | 1,000.00      | 4,119.93  |
+| 01-07-2022 | UPI/CR/218221261042/MANOH AR M/SBIN/**ANUA1@UPI/NO REMARKS//UPIF131103F5BF44 475947A8121E04B8E81/01/07/2                   | 16,000.00  |               | 20,119.93 |
+
+022 21:28:52
+
+| Date       | Particulars                                                                                                           | Deposits   | Withdrawals   | Balance   |
+|------------|-----------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------|
+| 01-07-2022 | UPI/DR/218284693851/SHASHI KAL/SBIN/**95559@YBL/PAYM ENT //YBL7274E39C45E74A3F8696C DC9B92C20A1/01/07/2022 21:30:29   |            | 15,200.00     | 4,919.93  |
+| 02-07-2022 | UPI/DR/218386192793/PADMA MBA /PYTM/**Z2M11@PAYTM/PAYM ENT //IBL6463B8862ADF4F18837BE 96AD273182C/02/07/2022 19:50:21 |            | 652.00        | 4,267.93  |
+| 02-07-2022 | ATM CASH-0426EP19- CANARABANKMANDYAKAIN- 02/07/22 19:52:44/9133                                                       |            | 500.00        | 3,767.93  |
+| 02-07-2022 | UPI/DR/218389593317/PADMA MBA /PYTM/**Z2M11@PAYTM/PAYM ENT //IBL4EED9D15A3784C8BB1F7A 7F43ECE232D/02/07/2022 19:58:17 |            | 115.00        | 3,652.93  |
+| 05-07-2022 | ECS QPAYINDIAPVTLTD                                                                                                   |            | 3,355.00      | 297.93    |
+| 05-07-2022 | UPI/CR/218622554259/MANOH AR M/SBIN/**ANUA1@UPI/NO REMARKS//UPI86C320C00A6F4 FB48E6B2FB64FCF137E/05/07/ 2022 22:43:08 | 300.00     |               | 597.93    |
+| 06-07-2022 | UPI/CR/218709655061/M MANOHAR/IOBA/**ANUA1@UPI /NO REMARKS//UPI6A43E545B1F84 770B885515828A103C0/06/07/2 022 09:06:15 | 500.00     |               | 1,097.93  |
+| 06-07-2022 | UPI/DR/218754844706/MS JAYASH/YESB/**93229@YBL/P AYMENT //YBLFDB5F4D05F1B47F0853F6 8E81C88ECBC/06/07/2022 16:21:30    |            | 200.00        | 897.93    |
+| 06-07-2022 | ATM CASH-0426E016- CANARABANKMANDYAKAIN- 06/07/22 20:28:10/9133                                                       |            | 500.00        | 397.93    |
+| 06-07-2022 | UPI/DR/218704828229/SRI ANNAP/PYTM/**07ZL3@PAYTM /PAYMENT //IBL59841260ECE147B898675E 3276281AC3/06/07/2022           |            | 20.00         | 377.93    |
+
+| Date       | Particulars                                                                                                             | Deposits   |   Withdrawals |   Balance |
+|------------|-------------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------|
+| 06-07-2022 | UPI/DR/218742590297/MUTTHR AJ /PYTM/**7G44N@PAYTM/PAYM ENT //IBL3B87ED07D6ED40FA90006                                   |            |            60 |    317.93 |
+| 07-07-2022 | UPI/DR/218800533511/SACHIN A K/PYTM/**JTGFW@PAYTM/PAY MENT //YBL8BC99E4592054236B592F D3EC7CFA473/07/07/2022 16:19:26   |            |            60 |    257.93 |
+| 08-07-2022 | UPI/DR/218966694225/NAJUND ASW/PYTM/**IPVQ4@PAYTM/P AYMENT //YBL1E01D63D22B6421AA8C9 7057DA88AF33/08/07/2022            |            |            35 |    222.93 |
+| 08-07-2022 | UPI/DR/218907261219/MANJUN ATHA/PYTM/**K960Z@PAYTM/ PAYMENT //YBL1DF50F80DD144603B3960 0FE8C5D0939/08/07/2022 17:05:24  |            |            76 |    146.93 |
+| 09-07-2022 | UPI/DR/219019809586/RAJEND RA /IOBA/**17941@IBL/PAYMENT //IBLA664C08C9F42418EA0C89 1A6C2DCDBE7/09/07/2022 15:47:23      |            |            50 |     96.93 |
+| 09-07-2022 | UPI/DR/219091896125/RAMAKR ISH/CORP/**80009@UPI/PAYM ENT //YBL259B6CC081924F2F99597 E3C3C9F7195/09/07/2022 16:51:29     |            |            36 |     60.93 |
+| 10-07-2022 | UPI/DR/219119318811/MAHADE VU /PYTM/**79MZ2@PAYTM/NO REMARKS//UPICCCC413B7EFE 48CDA83462064A91F8FA/10/07/ 2022 19:10:22 |            |            30 |     30.93 |
+| 11-07-2022 | UPI/DR/219216906795/SACHIN A K/PYTM/**JTGFW@PAYTM/NO REMARKS//UPI4F279F06176F4 9B9A8B75BFD1FB2DFB1/11/07/               |            |            30 |      0.93 |
+
+2022 16:15:53
+
+| Date       | Particulars                                                                                                           | Deposits   | Withdrawals   | Balance   |
+|------------|-----------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------|
+| 13-07-2022 | UPI/CR/219487431000/RAMYA N/CNRB/**ISHIR@OKICICI/UPI// ICIF0CE7949733B4836B7BAB4 BA9284E6BB/13/07/2022 11:26:28       | 20.00      |               | 20.93     |
+| 15-07-2022 | HONORARIUM FOR JUNE- 2022                                                                                             | 21,043.00  |               | 21,063.93 |
+| 15-07-2022 | UPI/DR/219676002526/ARNOLD HO/ICIC/**.PAYU@ICICI/UPI TRAN//ICIE4A485900D6C47FD8 017ECA15F0A69D8/15/07/2022 13:28:02   |            | 4,596.22      | 16,467.71 |
+| 15-07-2022 | ATM CASH-40972001- CHIKKAMANDYAMANDYAKAIN- 15/07/22 16:05:50/9133                                                     |            | 1,000.00      | 15,467.71 |
+| 15-07-2022 | UPI/DR/219638633154/BHANIX FI/SBIN/**D.RZP@SBI/CASHEL OA//IBL60DAC218E4AC42699E FBF5002D4F4C42/15/07/2022 17:14:17    |            | 5,375.00      | 10,092.71 |
+| 16-07-2022 | INET-IMPS-CR/RAZORPAY C/ICICI BANK/004705015595/RUFILO FUN/5891123274/16/07/2022 04:01:05                             | 8,230.12   |               | 18,322.83 |
+| 16-07-2022 | UPI/DR/219742051378/CASHE/ AIRP/**E.RZP@MAIRTEL/PAYVI ARA//IBL6E2BA54D9A3344E7B8 B0B66804C5F9A5/16/07/2022 04:07:21   |            | 5,375.00      | 12,947.83 |
+| 16-07-2022 | UPI/DR/219707332714/CAPITAL T/INDB/**KSLIM@INDUS/68975 6931//IBL0FFC8C9330AF4D2FB AAC1007BDD347C2/16/07/2022 09:22:48 |            | 6,540.00      | 6,407.83  |
+| 16-07-2022 | UPI/DR/219725332524/RAZORP AY /SBIN/**R.PAY@SBI/NIRAFINA// IBL9B8404BA8DC7452CB2557B 299F98ED29/16/07/2022 09:39:57   |            | 2,399.00      | 4,008.83  |
+| 16-07-2022 | UPI/DR/219754789943/P SHIVARA/PYTM/**W2AFL@PAY TM/PAYMENT //YBL944A16E9B5E348B3B2F27 DC6F909E461/16/07/2022           |            | 85.00         | 3,923.83  |
+
+11:13:04
+
+| Date       | Particulars                                                                                                             | Deposits   | Withdrawals   | Balance   |
+|------------|-------------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------|
+| 16-07-2022 | UPI/CR/219725902812/RAMYA N/CNRB/**ISHIR@OKICICI/UPI// ICIC4311C9E1DE64702BC6B0B 6F0444DB83/16/07/2022 11:54:25         | 50.00      |               | 3,973.83  |
+| 16-07-2022 | INET-IMPS-CR/BHANIX FIN/KMB /9711744340/IMPS- CMS-F/9999999999/16/07/2022 13:40:11                                      | 14,557.00  |               | 18,530.83 |
+| 16-07-2022 | UPI/DR/219730193915/M Y SUNIL/PYTM/**KDHEN@PAYT M/PAYMENT //IBL60519FE45329416FB2C652 DB34917E10/16/07/2022 15:06:18    |            | 60.00         | 18,470.83 |
+| 16-07-2022 | ATM CASH-0426EP19- CANARABANKMANDYAKAIN- 16/07/22 22:23:48/9133                                                         |            | 6,000.00      | 12,470.83 |
+| 16-07-2022 | UPI/DR/219714687006/CAPITAL T/ICIC/**ED.CF@ICICI/69138747 3//IBL5437AE81FF1244799ABA F3527F37EC1C/16/07/2022 23:39:39   |            | 3,924.00      | 8,546.83  |
+| 16-07-2022 | UPI/DR/219723938746/MANOH AR M/IOBA/**ANUA1@UPI/NO REMARKS//UPIC5B75BBE0351 47D694C5507878EC0322/16/07/ 2022 23:56:04   |            | 2,000.00      | 6,546.83  |
+| 16-07-2022 | UPI/DR/219723938801/MANOH AR M/SBIN/**ANUA1@UPI/NO REMARKS//UPI205E1E1213364 56082F71F3F0A7107D9/16/07/2 022 23:56:27   |            | 3,000.00      | 3,546.83  |
+| 17-07-2022 | UPI/DR/219851727291/LAKSHM I S/YESB/**74764@YBL/PAYMEN T //YBL07B42AFCD13F44A2B092 7BC076DB250E/17/07/2022              |            | 375.00        | 3,171.83  |
+| 17-07-2022 | UPI/DR/219846599094/JIOFIBE R/YESB/**FIBER@YESBANK/JI O20TB0//YBL842CC83583D04C A08B1EAD5D96E34E5D/17/07/2 022 17:51:36 |            | 470.82        | 2,701.01  |
+| 21-07-2022 | UPI/DR/220243036575/GOVIND A/PYTM/**LORBO@PAYTM/PA YMENT //IBL298FC38293F64FF0B39903 13C4F72AEA/21/07/2022 13:21:54     |            | 35.00         | 2,666.01  |
+
+| Date       | Particulars                                                                                                           | Deposits   |   Withdrawals | Balance   |
+|------------|-----------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------|
+| 21-07-2022 | ATM CASH-0496WS11- CANARABANKMALURKAIN- 21/07/22 17:13:41/9133                                                        |            |           500 | 2,166.01  |
+| 23-07-2022 | UPI/DR/220465926361/INSTAM OJO/ICIC/**PONSE@ICICI/PAY MENT //YBL4ECF3EE88C5B43D08773 BD8DCD29572A/23/07/2022 13:38:13 |            |             9 | 2,157.01  |
+| 23-07-2022 | ATM CASH-0426E015- CANARABANKMANDYAKAIN- 23/07/22 19:48:16/9133                                                       |            |           500 | 1,657.01  |
+| 23-07-2022 | UPI/DR/220461506621/SANTHO SH S/PYTM/**VG3S8@PAYTM/PAY MENT //YBLDCCC63FD4FF943CDBDE                                  |            |            25 | 1,632.01  |
+| 23-07-2022 | UPI/DR/220479581989/BOREG OWDA/PYTM/**B6CA7@PAYTM /PAYMENT //YBLA07B65BE30EA4F1CB445 5828DB15B21D/23/07/2022 20:52:26 |            |            40 | 1,592.01  |
+| 23-07-2022 | UPI/DR/220438365174/BEEFAT HU /PYTM/**TNKH0@PAYTM/PAYM ENT //YBL0418025CBC764F5984BA0 A7098DC933D/23/07/2022 21:10:55 |            |           120 | 1,472.01  |
+| 25-07-2022 | ATM CASH-KBL18262- KBLBMTCBUSSTANDRAMANA GARAKAIN-25/07/22 13:26:56/9133                                              |            |           500 | 972.01    |
+| 26-07-2022 | UPI/DR/220713794369/P SHIVARA/PYTM/**W2AFL@PAY TM/PAYMENT //IBL246AE437BF474B1A9542A 2497AED5231/26/07/2022 10:15:17  |            |            40 | 932.01    |
+| 26-07-2022 | UPI/DR/220764052351/BHARAT PE/IDFB/**YBPCL@IDFCBANK/ PAYMENT //YBL4EE35698846F4DF5A6FA9 F399362D070/26/07/2022        |            |           150 | 782.01    |
+
+16:32:00
+
+| Date       | Particulars                                                                                                               | Deposits   | Withdrawals   | Balance   |
+|------------|---------------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------|
+| 27-07-2022 | UPI/DR/220892959995/NAJUND ASW/PYTM/**VGPBP@PAYTM/ PAYMENT //IBL4F8F36803CD045D99A3CE D4E1EAEFB26/27/07/2022 10:53:08     |            | 25.00         | 757.01    |
+| 27-07-2022 | UPI/DR/220890941001/KEMPEG OWD/UTIB/**57061@OKBIZAXI S/PAYMENT //YBLCD3AF09479A246ADB598 707CFED22E20/27/07/2022 13:57:21 |            | 170.00        | 587.01    |
+| 27-07-2022 | ATM CASH-0426E016- CANARABANKMANDYAKAIN- 27/07/22 21:32:43/9133                                                           |            | 500.00        | 87.01     |
+| 27-07-2022 | ATM TXN DONE IN OTHER BANK ATM / IMPS CHARGES                                                                             |            | 23.60         | 63.41     |
+| 28-07-2022 | UPI/DR/220962112897/RAMALI NGE/PYTM/**HDUV7@PAYTM/ PAYMENT //IBL874468502A9645AA892FCE 3306869450/28/07/2022              |            | 50.00         | 13.41     |
+| 28-07-2022 | UPI/CR/220919926451/MANOH AR M/SBIN/**ANUA1@UPI/NO REMARKS//UPIF027657A78794 38DB94154FBE07AB3A9/28/07/ 2022 19:05:09     | 1,000.00   |               | 1,013.41  |
+| 28-07-2022 | UPI/CR/220919928258/M MANOHAR/IOBA/**ANUA1@UPI /NO REMARKS//UPIA1F96A37661C4 8ECAB96B983D96ADD87/28/07/ 2022 19:06:47     | 500.00     |               | 1,513.41  |
+| 28-07-2022 | ATM CASH-0426W007- CANARABANKMANDYAKAIN- 28/07/22 19:26:25/9133                                                           |            | 1,000.00      | 513.41    |
+| 28-07-2022 | ATM TXN DONE IN OTHER BANK ATM / IMPS CHARGES                                                                             |            | 23.60         | 489.81    |
+| 30-07-2022 | UPI/DR/221151496038/JUICE N S/PYTM/**34TMF@PAYTM/PAY MENT //IBL96A3515D081C48AA85E87 9985C22D2DD/30/07/2022               |            | 45.00         | 444.81    |
+| 30-07-2022 | UPI/DR/221103152244/MANJUN ATHA/PYTM/**LHIPV@PAYTM/ PAYMENT //IBL57AD55C976C94CA2B3219 3CD80EFF3BE/30/07/2022 16:45:49    |            | 65.00         | 379.81    |
+
+| Date       | Particulars                                                                                                             | Deposits   | Withdrawals   | Balance   |
+|------------|-------------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------|
+| 31-07-2022 | UPI/DR/221287190958/SRI MAHAL/PYTM/**8LK3N@PAYT M/PAYMENT //IBLCB055E808E014B83AD431 52DCB8775F6/31/07/2022 14:21:04    |            | 50.00         | 329.81    |
+| 01-08-2022 | SBINT FOR THE PERIOD FROM01-MAY-22 TO 31-JUL-22                                                                         | 30.00      |               | 359.81    |
+| 31-07-2022 | ATM CASH-0426E016- CANARABANKMANDYAKAIN- 31/07/22 21:05:38/9133                                                         |            | 200.00        | 159.81    |
+| 31-07-2022 | ATM TXN DONE IN OTHER BANK ATM / IMPS CHARGES                                                                           |            | 23.60         | 136.21    |
+| 31-07-2022 | UPI/DR/221231756644/MANOJ GOW/PYTM/**38L1Q@PAYTM/ PAYMENT //YBL184E2CD08B33450FBC25 5DBFAEF26CA6/31/07/2022             |            | 80.00         | 56.21     |
+| 01-08-2022 | UPI/DR/221330328191/RAKESH G/UJVN/**66479@YBL/PAYMEN T //YBL2937675A83384AC88F9AF 76EF0851241/01/08/2022 11:37:00       |            | 28.00         | 28.21     |
+| 02-08-2022 | CASH-BNA-0516 0516BK01- 02/08/22 16:38:49                                                                               | 25,500.00  |               | 25,528.21 |
+| 03-08-2022 | UPI/DR/221513618902/PADMAV ATH/CNRB/**10101031281/NO REMARKS//UPIA0A4C820CDE4 4B96A3113728DA63B438/03/08/ 2022 13:25:29 |            | 8,500.00      | 17,028.21 |
+| 03-08-2022 | UPI/DR/221532473022/BANNI CHA/PYTM/**HAUL0@PAYTM/P AYMENT //IBLCF3F72CB13774AB48685B 8E835A52E7A/03/08/2022 17:24:03    |            | 70.00         | 16,958.21 |
+| 03-08-2022 | UPI/DR/221550458035/SHILPA H P/PYTM/**4BEQZ@PAYTM/PAY MENT //IBL399C297516C647CC953ED 3C7C3961500/03/08/2022 20:39:51   |            | 100.00        | 16,858.21 |
+| 03-08-2022 | UPI/DR/221516248572/SHASHI KAL/SBIN/**95559@YBL/PAYM ENT //YBL0341EA7798494A0CB80C9 3731B1D945D/03/08/2022 20:57:46     |            | 10,200.00     | 6,658.21  |
+
+| Date       | Particulars                                                                                                           | Deposits   | Withdrawals   | Balance   |
+|------------|-----------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------|
+| 05-08-2022 | UPI/DR/221778100689/BHARAT HI/SIBL/**ALI07@IBL/PAYMENT //IBLF5A42417E3CA48358D33E 920B71D80DE/05/08/2022 05:09:58     |            | 250.00        | 6,408.21  |
+| 05-08-2022 | UPI/DR/221714835269/SHASHI KAL/SBIN/**95559@YBL/PAYM ENT //YBL72EC231662184F129593D E924728268A/05/08/2022 05:11:39   |            | 3,500.00      | 2,908.21  |
+| 05-08-2022 | UPI/CR/221705991316/MANOH AR M/SBIN/**ANUA1@UPI/NO REMARKS//UPIF73FCE1FB0984 FBDA3BB8FA71A20B443/05/08/ 2022 05:14:33 | 1,000.00   |               | 3,908.21  |
+| 05-08-2022 | ECS QPAYINDIAPVTLTD                                                                                                   |            | 3,355.00      | 553.21    |
+| 05-08-2022 | UPI/CR/221715489003/MANOH AR M/SBIN/**ANUA1@UPI/NO REMARKS//UPIC78052D04AA84 1088E1C89E5C5CCD2F3/05/08/ 2022 15:26:47 | 500.00     |               | 1,053.21  |
+| 05-08-2022 | ATM CASH-05162448- CANARABANKMANDYAKAIN- 05/08/22 15:27:32/9133                                                       |            | 500.00        | 553.21    |
+| 07-08-2022 | ATM CASH-0426WS01- CANARABANKMANDYAKAIN- 07/08/22 11:45:52/9133                                                       |            | 200.00        | 353.21    |
+| 08-08-2022 | UPI/CR/222019043103/M MANOHAR/IOBA/**ANUA1@UPI /NO REMARKS//UPI96CE8EBF4B07 4DF5B14AE600BC994269/08/08 /2022 19:25:53 | 350.00     |               | 703.21    |
+| 08-08-2022 | ATM CASH-0426E016- CANARABANKMANDYAKAIN- 08/08/22 19:58:36/9133                                                       |            | 200.00        | 503.21    |
+| 11-08-2022 | SALARY JULY-2022                                                                                                      | 21,090.00  |               | 21,593.21 |
+| 11-08-2022 | UPI/DR/222313125915/MANOH AR M/IOBA/**ANUA1@UPI/NO REMARKS//UPI02C018C1FBB0 4EC180F30DFD8C61CABD/11/0 8/2022 13:50:35 |            | 1,000.00      | 20,593.21 |
+| 11-08-2022 | UPI/DR/222313126640/MANOH AR M/SBIN/**ANUA1@UPI/NO REMARKS//UPI58A6E0B319F84 517BDA6935158A7094C/11/08/2 022 13:51:30 |            | 500.00        | 20,093.21 |
+
+| Date       | Particulars                                                                                                           | Deposits        | Withdrawals   | Balance   |
+|------------|-----------------------------------------------------------------------------------------------------------------------|-----------------|---------------|-----------|
+| 11-08-2022 | UPI/DR/222337898215/BHANIX FI/SBIN/**D.RZP@SBI/CASHEL OA//IBLCB9911DCE3354D0E9A 44C568D0EA31B5/11/08/2022 13:55:20    |                 | 5,375.00      | 14,718.21 |
+| 11-08-2022 | UPI/DR/222314097136/RUFILO/ AIRP/**O.RZP@MAIRTEL/PAYV IARA//YBL0EA2465A4E08497BB 2D5347E1CF86090/11/08/2022 13:58:31  |                 | 4,656.67      | 10,061.54 |
+| 11-08-2022 | UPI/DR/222328900769/CAPITAL T/ICIC/**ED.CF@ICICI/74600195 1//IBLDF6DC1C0FA394FE4AE2 1319B0EF9323C/11/08/2022 14:01:16 |                 | 2,616.00      | 7,445.54  |
+|            |                                                                                                                       | Closing Balance |               | 7,445.54  |
